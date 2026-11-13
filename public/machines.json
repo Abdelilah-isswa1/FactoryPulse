@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Presse hydraulique P-200", "zone": "Atelier Pressage", "status": "En fonctionnement", "production": 420 },
+  { "id": 2, "name": "Four céramique F-12", "zone": "Atelier Cuisson", "status": "En fonctionnement", "production": 310 },
+  { "id": 3, "name": "Convoyeur C-04", "zone": "Ligne Emballage", "status": "À l'arrêt", "production": 0 },
+  { "id": 4, "name": "Soudeuse robotisée S-7", "zone": "Atelier Soudure", "status": "En panne", "production": 85 },
+  { "id": 5, "name": "Découpeuse laser L-3", "zone": "Atelier Découpe", "status": "En fonctionnement", "production": 530 },
+  { "id": 6, "name": "Mélangeur M-15", "zone": "Atelier Préparation", "status": "À l'arrêt", "production": 120 },
+  { "id": 7, "name": "Emballeuse E-09", "zone": "Ligne Emballage", "status": "En panne", "production": 0 },
+  { "id": 8, "name": "Compresseur K-21", "zone": "Salle Technique", "status": "En fonctionnement", "production": 260 }
+]
